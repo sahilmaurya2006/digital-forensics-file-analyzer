@@ -1,0 +1,3 @@
+User copied file E:\USB_DRIVE\photos\image01.jpg to C:\Users\Sahil\Pictures
+Another event line with path F:\Docs\report.pdf modified by user
+Random noise line
