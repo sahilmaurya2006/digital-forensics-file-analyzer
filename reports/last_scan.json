@@ -1,0 +1,68 @@
+{
+  "generated_at": "2025-11-10T11:00:38.905605Z",
+  "results": [
+    {
+      "filename": "1755792647479-po.png",
+      "path": "C:\\Users\\Sahil\\OneDrive\\Desktop\\digital-forensics-file-analyzer\\sample_files\\1755792647479-po.png",
+      "size_bytes": 605242,
+      "modified": "2025-08-21T23:12:34.319987",
+      "created": "2025-11-06T16:36:52.086000",
+      "md5": "713b9cce3e867c4364892535a141b797",
+      "sha256": "f17b63f3414dcc8b4f77d6fb9a9d112b549a5e61b12f6705300535b0977567d7",
+      "exif": {},
+      "suspicion_score": 30,
+      "reasons": [
+        "High entropy (7.78) \u2014 possible packed/encrypted content"
+      ]
+    },
+    {
+      "filename": "CO REPETING QUESTIONS.docx",
+      "path": "C:\\Users\\Sahil\\OneDrive\\Desktop\\digital-forensics-file-analyzer\\sample_files\\CO REPETING QUESTIONS.docx",
+      "size_bytes": 22570,
+      "modified": "2025-09-28T22:30:27",
+      "created": "2025-11-09T11:53:22.082978",
+      "md5": "f845a62b5a5b09a216635733132e4ce2",
+      "sha256": "e006599170cb03449ef29ce041b05d89fc703f34ba8e1f2de7796110e22715ba",
+      "suspicion_score": 0,
+      "reasons": []
+    },
+    {
+      "filename": "ec448aac-afa6-460c-9166-d0503b5d6d4a.png",
+      "path": "C:\\Users\\Sahil\\OneDrive\\Desktop\\digital-forensics-file-analyzer\\sample_files\\ec448aac-afa6-460c-9166-d0503b5d6d4a.png",
+      "size_bytes": 1474689,
+      "modified": "2025-10-27T23:30:32.960421",
+      "created": "2025-11-09T11:46:20.579712",
+      "md5": "02433d16d6f51f939236877b8d71493a",
+      "sha256": "198be8e61e35e7a55d25ccaeb5c37eaaaf9c0cc88da6c0a9aed971b7362427fe",
+      "exif": {},
+      "suspicion_score": 0,
+      "reasons": []
+    },
+    {
+      "filename": "NOC25CS108S550500327.pdf",
+      "path": "C:\\Users\\Sahil\\OneDrive\\Desktop\\digital-forensics-file-analyzer\\sample_files\\NOC25CS108S550500327.pdf",
+      "size_bytes": 484045,
+      "modified": "2025-10-25T19:43:10.647742",
+      "created": "2025-11-09T11:46:20.666472",
+      "md5": "4a929fae8c296ebfc0cdce272d94f191",
+      "sha256": "c160716dda744e32eb0bdaedc20b22c4e551dc828c1d09c635b5104926c320a1",
+      "suspicion_score": 30,
+      "reasons": [
+        "High entropy (7.64) \u2014 possible packed/encrypted content"
+      ]
+    },
+    {
+      "filename": "week 6 - structured analysis and design.pdf",
+      "path": "C:\\Users\\Sahil\\OneDrive\\Desktop\\digital-forensics-file-analyzer\\sample_files\\week 6 - structured analysis and design.pdf",
+      "size_bytes": 800498,
+      "modified": "2025-10-25T23:03:17.537869",
+      "created": "2025-11-09T11:46:20.609668",
+      "md5": "9850e06509615930c609fe365e23a909",
+      "sha256": "9f751c19aeae3b535cbfcd6f253f95d92b842f99558d498657d7b2887f754306",
+      "suspicion_score": 30,
+      "reasons": [
+        "High entropy (7.65) \u2014 possible packed/encrypted content"
+      ]
+    }
+  ]
+}

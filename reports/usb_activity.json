@@ -1,0 +1,28 @@
+{
+    "generated_at": "2025-11-13T08:20:03.661006Z",
+    "tool": "digital-forensics-file-analyzer",
+    "version": "1.0",
+    "count": 2,
+    "results": [
+        {
+            "drive": "E:",
+            "event_id": null,
+            "time_generated": "",
+            "message": "User copied file E:\\USB_DRIVE\\photos\\image01.jpg to C:\\Users\\Sahil\\Pictures",
+            "log_name": "usb_sample.txt",
+            "before_hash": null,
+            "after_hash": null,
+            "status": "missing"
+        },
+        {
+            "drive": "F:",
+            "event_id": null,
+            "time_generated": "",
+            "message": "Another event line with path F:\\Docs\\report.pdf modified by user",
+            "log_name": "usb_sample.txt",
+            "before_hash": null,
+            "after_hash": null,
+            "status": "missing"
+        }
+    ]
+}

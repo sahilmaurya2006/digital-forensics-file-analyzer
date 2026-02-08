@@ -1,0 +1,3 @@
+drive,event_id,time_generated,message,log_name,before_hash,after_hash,status
+E:, ,,"User copied file E:\\USB_DRIVE\\photos\\image01.jpg to C:\\Users\\Sahil\\Pictures",usb_sample.txt,,,missing
+F:, ,,"Another event line with path F:\\Docs\\report.pdf modified by user",usb_sample.txt,,,missing

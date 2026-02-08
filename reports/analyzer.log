@@ -1,0 +1,10 @@
+2025-11-13 13:50:03,336 - INFO - Scanning folder: sample_files
+2025-11-13 13:50:03,511 - INFO - CSV saved: reports\report.csv
+2025-11-13 13:50:03,517 - INFO - JSON saved: reports\report.json
+2025-11-13 13:50:03,517 - INFO - Analysis complete.
+2025-11-13 13:50:03,532 - INFO - Running USB event-log scan (drives=default logs=Security)
+2025-11-13 13:50:03,653 - DEBUG - Failed to open log Security: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-11-13 13:50:03,654 - INFO - Falling back to parsing provided evtx/text file: tools\usb_sample.txt
+2025-11-13 13:50:03,655 - WARNING - Insufficient privileges to open Event Log 'Security' (error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')). Try running the tool from an elevated prompt (Run as Administrator) to read Security logs.
+2025-11-13 13:50:03,667 - INFO - USB activity saved: reports\usb_activity.json, reports\usb_activity.csv
+2025-11-13 13:51:29,246 - INFO - Keylogger detection saved: reports\keylogger_findings.json, reports\keylogger_findings.csv

@@ -1,0 +1,6 @@
+tqdm
+colorama
+exifread
+pandas
+reportlab
+pillow

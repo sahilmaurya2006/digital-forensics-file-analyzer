@@ -1,0 +1,35 @@
+path,name,display
+C:\WINDOWS\system32\drivers\applockerfltr.sys,applockerfltr,Smartlocker Filter Driver
+C:\WINDOWS\system32\drivers\bindflt.sys,bindflt,Windows Bind Filter Driver
+C:\WINDOWS\system32\drivers\bttflt.sys,bttflt,Microsoft Hyper-V VHDPMEM BTT Filter
+C:\WINDOWS\system32\drivers\cldflt.sys,CldFlt,Windows Cloud Files Filter Driver
+C:\WINDOWS\system32\drivers\EhStorClass.sys,EhStorClass,Enhanced Storage Filter Driver
+C:\WINDOWS\system32\drivers\fileinfo.sys,FileInfo,File Information FS MiniFilter
+C:\WINDOWS\system32\drivers\FsDepends.sys,FsDepends,File System Dependency Minifilter
+C:\WINDOWS\system32\DRIVERS\fvevol.sys,fvevol,BitLocker Drive Encryption Filter Driver
+C:\WINDOWS\system32\drivers\hyperkbd.sys,hyperkbd,hyperkbd
+C:\WINDOWS\system32\drivers\i8042prt.sys,i8042prt,i8042 Keyboard and PS/2 Mouse Port Driver
+C:\WINDOWS\system32\drivers\ibbus.sys,ibbus,Mellanox InfiniBand Bus/AL (Filter Driver)
+C:\WINDOWS\system32\drivers\iorate.sys,iorate,Disk I/O Rate Filter Driver
+C:\WINDOWS\system32\DRIVERS\ipfltdrv.sys,IpFilterDriver,IP Traffic Filter Driver
+C:\WINDOWS\system32\drivers\kbdclass.sys,kbdclass,Keyboard Class Driver
+C:\WINDOWS\system32\drivers\kbdhid.sys,kbdhid,Keyboard HID Driver
+C:\WINDOWS\system32\drivers\mausbip.sys,mausbip,MA-USB IP Filter Driver
+C:\WINDOWS\system32\drivers\mshidkmdf.sys,mshidkmdf,Pass-through HID to KMDF Filter Driver
+C:\WINDOWS\system32\DRIVERS\nwifi.sys,NativeWifiP,NativeWiFi Filter
+C:\WINDOWS\system32\drivers\pango_netfilter2.sys,pango_netfilter2,pango_netfilter2
+C:\WINDOWS\system32\drivers\RtkBtfilter.sys,RtkBtFilter,Realtek Bluetooth Filter Driver
+C:\WINDOWS\system32\DRIVERS\scfilter.sys,scfilter,Smart card PnP Class Filter Driver
+C:\WINDOWS\system32\drivers\serenum.sys,Serenum,Serenum Filter Driver
+C:\WINDOWS\system32\drivers\storqosflt.sys,storqosflt,Storage QoS Filter Driver
+C:\WINDOWS\system32\DriverStore\FileRepository\c_thermal.inf_amd64_76835d8c9d60a0ca\ThermalFilter.sys,ThermalFilter,Microsoft Thermal Filter Driver
+C:\WINDOWS\system32\drivers\tsusbflt.sys,TsUsbFlt,Remote Desktop USB Hub Class Filter Driver
+C:\WINDOWS\system32\drivers\vfpext.sys,VfpExt,Microsoft Azure VFP Switch Filter Extension
+C:\WINDOWS\system32\drivers\vmswitch.sys,VMSVSF,VmSwitch Extensibility Filter
+C:\WINDOWS\system32\drivers\vwififlt.sys,vwififlt,Virtual WiFi Filter Driver
+C:\WINDOWS\system32\drivers\wd\WdFilter.sys,WdFilter,Microsoft Defender Antivirus Mini-Filter Driver
+C:\WINDOWS\system32\drivers\WdmCompanionFilter.sys,WdmCompanionFilter,WdmCompanionFilter
+C:\WINDOWS\system32\drivers\wfplwfs.sys,WFPLWFS,Microsoft Windows Filtering Platform
+C:\WINDOWS\system32\drivers\Wof.sys,Wof,Windows Overlay File System Filter Driver
+C:\WINDOWS\system32\drivers\WpdUpFltr.sys,WpdUpFltr,WPD Upper Class Filter Driver
+C:\WINDOWS\system32\drivers\xinputhid.sys,xinputhid,XINPUT HID Filter Driver

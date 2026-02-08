@@ -1,0 +1,5 @@
+drive,root,exists,drive_type,is_removable
+E:,E:\,False,1,False
+F:,F:\,False,1,False
+G:,G:\,False,1,False
+H:,H:\,False,1,False

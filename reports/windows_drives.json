@@ -1,0 +1,36 @@
+{
+    "generated_at": "2025-11-11T06:03:53.148527Z",
+    "tool": "digital-forensics-file-analyzer",
+    "version": "1.0",
+    "count": 4,
+    "results": [
+        {
+            "drive": "E:",
+            "root": "E:\\",
+            "exists": false,
+            "drive_type": "1",
+            "is_removable": false
+        },
+        {
+            "drive": "F:",
+            "root": "F:\\",
+            "exists": false,
+            "drive_type": "1",
+            "is_removable": false
+        },
+        {
+            "drive": "G:",
+            "root": "G:\\",
+            "exists": false,
+            "drive_type": "1",
+            "is_removable": false
+        },
+        {
+            "drive": "H:",
+            "root": "H:\\",
+            "exists": false,
+            "drive_type": "1",
+            "is_removable": false
+        }
+    ]
+}

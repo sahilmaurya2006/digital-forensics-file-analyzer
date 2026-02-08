@@ -1,0 +1,178 @@
+{
+    "generated_at": "2025-11-13T08:21:29.240858Z",
+    "tool": "digital-forensics-file-analyzer",
+    "version": "1.0",
+    "count": 34,
+    "results": [
+        {
+            "name": "applockerfltr",
+            "display": "Smartlocker Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\applockerfltr.sys"
+        },
+        {
+            "name": "bindflt",
+            "display": "Windows Bind Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\bindflt.sys"
+        },
+        {
+            "name": "bttflt",
+            "display": "Microsoft Hyper-V VHDPMEM BTT Filter",
+            "path": "C:\\WINDOWS\\system32\\drivers\\bttflt.sys"
+        },
+        {
+            "name": "CldFlt",
+            "display": "Windows Cloud Files Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\cldflt.sys"
+        },
+        {
+            "name": "EhStorClass",
+            "display": "Enhanced Storage Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\EhStorClass.sys"
+        },
+        {
+            "name": "FileInfo",
+            "display": "File Information FS MiniFilter",
+            "path": "C:\\WINDOWS\\system32\\drivers\\fileinfo.sys"
+        },
+        {
+            "name": "FsDepends",
+            "display": "File System Dependency Minifilter",
+            "path": "C:\\WINDOWS\\system32\\drivers\\FsDepends.sys"
+        },
+        {
+            "name": "fvevol",
+            "display": "BitLocker Drive Encryption Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\DRIVERS\\fvevol.sys"
+        },
+        {
+            "name": "hyperkbd",
+            "display": "hyperkbd",
+            "path": "C:\\WINDOWS\\system32\\drivers\\hyperkbd.sys"
+        },
+        {
+            "name": "i8042prt",
+            "display": "i8042 Keyboard and PS/2 Mouse Port Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\i8042prt.sys"
+        },
+        {
+            "name": "ibbus",
+            "display": "Mellanox InfiniBand Bus/AL (Filter Driver)",
+            "path": "C:\\WINDOWS\\system32\\drivers\\ibbus.sys"
+        },
+        {
+            "name": "iorate",
+            "display": "Disk I/O Rate Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\iorate.sys"
+        },
+        {
+            "name": "IpFilterDriver",
+            "display": "IP Traffic Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\DRIVERS\\ipfltdrv.sys"
+        },
+        {
+            "name": "kbdclass",
+            "display": "Keyboard Class Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\kbdclass.sys"
+        },
+        {
+            "name": "kbdhid",
+            "display": "Keyboard HID Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\kbdhid.sys"
+        },
+        {
+            "name": "mausbip",
+            "display": "MA-USB IP Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\mausbip.sys"
+        },
+        {
+            "name": "mshidkmdf",
+            "display": "Pass-through HID to KMDF Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\mshidkmdf.sys"
+        },
+        {
+            "name": "NativeWifiP",
+            "display": "NativeWiFi Filter",
+            "path": "C:\\WINDOWS\\system32\\DRIVERS\\nwifi.sys"
+        },
+        {
+            "name": "pango_netfilter2",
+            "display": "pango_netfilter2",
+            "path": "C:\\WINDOWS\\system32\\drivers\\pango_netfilter2.sys"
+        },
+        {
+            "name": "RtkBtFilter",
+            "display": "Realtek Bluetooth Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\RtkBtfilter.sys"
+        },
+        {
+            "name": "scfilter",
+            "display": "Smart card PnP Class Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\DRIVERS\\scfilter.sys"
+        },
+        {
+            "name": "Serenum",
+            "display": "Serenum Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\serenum.sys"
+        },
+        {
+            "name": "storqosflt",
+            "display": "Storage QoS Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\storqosflt.sys"
+        },
+        {
+            "name": "ThermalFilter",
+            "display": "Microsoft Thermal Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\DriverStore\\FileRepository\\c_thermal.inf_amd64_76835d8c9d60a0ca\\ThermalFilter.sys"
+        },
+        {
+            "name": "TsUsbFlt",
+            "display": "Remote Desktop USB Hub Class Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\tsusbflt.sys"
+        },
+        {
+            "name": "VfpExt",
+            "display": "Microsoft Azure VFP Switch Filter Extension",
+            "path": "C:\\WINDOWS\\system32\\drivers\\vfpext.sys"
+        },
+        {
+            "name": "VMSVSF",
+            "display": "VmSwitch Extensibility Filter",
+            "path": "C:\\WINDOWS\\system32\\drivers\\vmswitch.sys"
+        },
+        {
+            "name": "vwififlt",
+            "display": "Virtual WiFi Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\vwififlt.sys"
+        },
+        {
+            "name": "WdFilter",
+            "display": "Microsoft Defender Antivirus Mini-Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\wd\\WdFilter.sys"
+        },
+        {
+            "name": "WdmCompanionFilter",
+            "display": "WdmCompanionFilter",
+            "path": "C:\\WINDOWS\\system32\\drivers\\WdmCompanionFilter.sys"
+        },
+        {
+            "name": "WFPLWFS",
+            "display": "Microsoft Windows Filtering Platform",
+            "path": "C:\\WINDOWS\\system32\\drivers\\wfplwfs.sys"
+        },
+        {
+            "name": "Wof",
+            "display": "Windows Overlay File System Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\Wof.sys"
+        },
+        {
+            "name": "WpdUpFltr",
+            "display": "WPD Upper Class Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\WpdUpFltr.sys"
+        },
+        {
+            "name": "xinputhid",
+            "display": "XINPUT HID Filter Driver",
+            "path": "C:\\WINDOWS\\system32\\drivers\\xinputhid.sys"
+        }
+    ]
+}
